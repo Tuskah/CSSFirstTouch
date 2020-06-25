@@ -1,3 +1,27 @@
-body {
-    color: black;
+/* Create your test CSS here */
+
+p {
+    color: red;
+  }
+
+.Yellow {
+    color: yellow;
 }
+
+h3 + p {
+    color: blue;
+}
+
+ul li {
+    color: pink;
+    list-style-type: none;
+}
+
+h4 {
+    color:red;
+}
+
+h4 {
+    color:purple;
+}
+
